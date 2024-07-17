@@ -11,7 +11,7 @@
         'Tampilkan data kategori di DdlKategori
         Dim dtKat As New DataTable
         Dim kt As New Kategori_m
-        dtKat = kt.Lihat()
+        dtKat = kt.GetAllKategori
 
 
         'Hapus isi dari dropdownlist terlebih dahulu
@@ -38,7 +38,7 @@
         'Tampilkan data koleksi di GV
         Dim dtkol As New DataTable
         Dim ko As New Koleksi_m()
-        dtkol = ko.Lihat()
+        dtkol = ko.GetAllKoleksi
 
 
         'Hapus isi dari GV terlebih dahulu

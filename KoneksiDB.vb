@@ -9,7 +9,7 @@ Public Class KoneksiDB
         username = "root"
         password = ""
         server = "localhost"
-        database = "db_polis_4a"
+        database = "polis"
 
         Dim con_str As String
         con_str = "user=" & username & ";"

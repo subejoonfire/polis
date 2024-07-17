@@ -131,11 +131,13 @@
     <Content Include="view user\Beranda.aspx" />
     <Content Include="view user\Footer.ascx" />
     <Content Include="view user\Kategori.aspx" />
-    <Content Include="view user\KategoriTambah.aspx" />
+    <Content Include="view user\Koleksi.aspx" />
     <Content Include="view user\Login.aspx" />
     <Content Include="view user\Logout.aspx" />
+    <Content Include="view user\Member.aspx" />
     <Content Include="view user\ModalLogout.ascx" />
     <Content Include="view user\Peminjaman.aspx" />
+    <Content Include="view user\Pengguna.aspx" />
     <Content Include="view user\Sidebar.ascx" />
     <Content Include="view user\Topbar.ascx" />
     <Content Include="Web.config" />
@@ -148,6 +150,7 @@
     <Compile Include="model\Koleksi_m.vb" />
     <Compile Include="model\Layanan_m.vb" />
     <Compile Include="model\Member_m.vb" />
+    <Compile Include="model\Peminjaman_m.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -223,11 +226,11 @@
       <DependentUpon>Kategori.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="view user\KategoriTambah.aspx.designer.vb">
-      <DependentUpon>KategoriTambah.aspx</DependentUpon>
+    <Compile Include="view user\Koleksi.aspx.designer.vb">
+      <DependentUpon>Koleksi.aspx</DependentUpon>
     </Compile>
-    <Compile Include="view user\KategoriTambah.aspx.vb">
-      <DependentUpon>KategoriTambah.aspx</DependentUpon>
+    <Compile Include="view user\Koleksi.aspx.vb">
+      <DependentUpon>Koleksi.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="view user\Login.aspx.designer.vb">
@@ -244,6 +247,13 @@
       <DependentUpon>Logout.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="view user\Member.aspx.designer.vb">
+      <DependentUpon>Member.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="view user\Member.aspx.vb">
+      <DependentUpon>Member.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="view user\ModalLogout.ascx.designer.vb">
       <DependentUpon>ModalLogout.ascx</DependentUpon>
     </Compile>
@@ -256,6 +266,13 @@
     </Compile>
     <Compile Include="view user\Peminjaman.aspx.vb">
       <DependentUpon>Peminjaman.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="view user\Pengguna.aspx.designer.vb">
+      <DependentUpon>Pengguna.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="view user\Pengguna.aspx.vb">
+      <DependentUpon>Pengguna.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="view user\Sidebar.ascx.designer.vb">

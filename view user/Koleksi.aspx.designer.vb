@@ -11,7 +11,7 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class Peminjaman
+Partial Public Class Koleksi
 
     '''<summary>
     '''SidebarControl control.
@@ -41,67 +41,85 @@ Partial Public Class Peminjaman
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
-    '''txtKdPeminjaman control.
+    '''txtKdBuku control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents txtKdPeminjaman As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txtKdBuku As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''ddlIdMember control.
+    '''txtIdKat control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents ddlIdMember As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents txtIdKat As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''ddlKdBuku control.
+    '''txtJudul control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents ddlKdBuku As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents txtJudul As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''txtTglPinjam control.
+    '''txtTahun control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents txtTglPinjam As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txtTahun As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''txtTglKembali control.
+    '''txtPenerbit control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents txtTglKembali As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txtPenerbit As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''txtJumlah control.
+    '''txtCover control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents txtJumlah As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txtCover As Global.System.Web.UI.WebControls.FileUpload
 
     '''<summary>
-    '''txtStatus control.
+    '''txtStok control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents txtStatus As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents txtStok As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''txtTersedia control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents txtTersedia As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''txtHarga control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents txtHarga As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''btnAdd control.

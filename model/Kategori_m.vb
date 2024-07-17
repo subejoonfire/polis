@@ -1,30 +1,17 @@
 ﻿Imports MySql.Data.MySqlClient
 
 Public Class Kategori_m
-    Dim idkat As Integer
-    Dim kategori As String
-
-    Public Function Lihat() As DataTable
-        Dim dt As New DataTable
-        Dim query As String = "SELECT idkat AS ID, KATEGORI FROM kategori"
-        'create object k
+    Public Function CreateKategori(kategori As String) As Boolean
+        Dim query As String = "INSERT INTO kategori (kategori) VALUES (@kategori)"
+        Dim parameters As New List(Of MySqlParameter)
+        parameters.Add(New MySqlParameter("@kategori", kategori))
         Dim k As New KoneksiDB
-        dt = k.GetResult(query)
-        Return dt
+        Return k.Execute(query, parameters.ToArray())
     End Function
 
-    Public Function Tambah() As Boolean
-        Dim query As String = "INSERT INTO kategori VALUES (NULL, @kategori)"
-        Dim parameters As MySqlParameter() = {
-            New MySqlParameter("@kategori", kategori)
-        }
-
+    Public Function GetAllKategori() As DataTable
+        Dim query As String = "SELECT * FROM kategori"
         Dim k As New KoneksiDB
-        Dim status As Boolean = k.Execute(query, parameters)
-        Return status
+        Return k.GetResult(query)
     End Function
-
-    Public Sub SetKategori(kategori As String)
-        Me.kategori = kategori
-    End Sub
 End Class

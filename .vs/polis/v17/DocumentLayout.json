@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\polis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view user\\peminjaman.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\peminjaman.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view user\\peminjaman.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\peminjaman.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\model\\kategori_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:model\\kategori_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view user\\kategori.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\kategori.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view user\\kategori.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\kategori.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peminjaman.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Peminjaman.aspx.vb",
+              "RelativeDocumentMoniker": "view user\\Peminjaman.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Peminjaman.aspx.vb",
+              "RelativeToolTip": "view user\\Peminjaman.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-17T04:40:19.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Peminjaman.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Peminjaman.aspx",
+              "RelativeDocumentMoniker": "view user\\Peminjaman.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Peminjaman.aspx",
+              "RelativeToolTip": "view user\\Peminjaman.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T04:32:48.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kategori_m.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\model\\Kategori_m.vb",
+              "RelativeDocumentMoniker": "model\\Kategori_m.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\model\\Kategori_m.vb",
+              "RelativeToolTip": "model\\Kategori_m.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-17T04:29:29.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kategori.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx.vb",
+              "RelativeDocumentMoniker": "view user\\Kategori.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx.vb",
+              "RelativeToolTip": "view user\\Kategori.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-17T04:29:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kategori.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx",
+              "RelativeDocumentMoniker": "view user\\Kategori.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx",
+              "RelativeToolTip": "view user\\Kategori.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T04:28:56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

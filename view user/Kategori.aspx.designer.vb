@@ -14,6 +14,24 @@ Option Explicit On
 Partial Public Class Kategori
 
     '''<summary>
+    '''SidebarControl control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents SidebarControl As Global.polis.Sidebar
+
+    '''<summary>
+    '''TopbarControl control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents TopbarControl As Global.polis.Topbar
+
+    '''<summary>
     '''form1 control.
     '''</summary>
     '''<remarks>
@@ -23,11 +41,38 @@ Partial Public Class Kategori
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
-    '''BtnTambah control.
+    '''txtKategori control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents BtnTambah As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents txtKategori As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''btnAdd control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btnAdd As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''GridView1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents GridView1 As Global.System.Web.UI.WebControls.GridView
+
+    '''<summary>
+    '''FooterControl control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents FooterControl As Global.polis.Footer1
 End Class
