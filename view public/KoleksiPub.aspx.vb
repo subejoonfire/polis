@@ -2,40 +2,7 @@
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        ' Panggil method di user control untuk mengaktifkan menu Koleksi
-        Dim header As Header = CType(Me.HeaderControl, Header)
-        header.SetActiveNav("Koleksi")
-
-
-        'DROPDOWNLIST DDLKATEGORI
-        'Tampilkan data kategori di DdlKategori
-        Dim dtKat As New DataTable
-        Dim kt As New Kategori_m
-        dtKat = kt.GetAllKategori
-
-
-        'Hapus isi dari dropdownlist terlebih dahulu
-        DdlKategori.Items.Clear()
-
-
-        'Atur dropdownlist: data yang ditampilkan dan data yang menjadi nilai
-        DdlKategori.DataSource = dtKat
-        DdlKategori.DataTextField = "KATEGORI"
-        DdlKategori.DataValueField = "ID"
-
-
-        'Bind data ke Dropdownlist
-        DdlKategori.DataBind()
-
-
-        'Menambahkan item kosong
-        DdlKategori.Items.Insert(0, New ListItem("", ""))
-
-
-
-
-        'GRIDVIEW GV
-        'Tampilkan data koleksi di GV
+        Dim kat As New Kategori_m
         Dim dtkol As New DataTable
         Dim ko As New Koleksi_m()
         dtkol = ko.GetAllKoleksi
@@ -45,8 +12,19 @@
 
 
         'Atur Gridview
+        Dim GV As GridView = CType(Me.GridView1, GridView) ' declare and assign the GridView
         GV.DataSource = dtkol
         GV.DataBind()
+
+        Dim km As New Kategori_m()
+        Dim dtKat As DataTable = km.GetAllKategori()
+        DdlKategori.DataSource = dtkat
+        DdlKategori.DataTextField = "KATEGORI"
+        DdlKategori.DataValueField = "idkat"
+        DdlKategori.DataBind()
+
+        ' Add an empty item to the DropDownList
+        DdlKategori.Items.Insert(0, New ListItem("", ""))
 
     End Sub
 

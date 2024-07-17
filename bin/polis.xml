@@ -136,9 +136,9 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:polis.KoleksiPub._GV">
+<member name="F:polis.KoleksiPub._GridView1">
 <summary>
-GV control.
+GridView1 control.
 </summary>
 <remarks>
 Auto-generated field.
