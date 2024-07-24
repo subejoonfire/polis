@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\polis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view public\\koleksipub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view public\\koleksipub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\Kategori.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|C:\\Users\\Administrator\\source\\repos\\polis\\view public\\koleksipub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view public\\koleksipub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view user\\koleksi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\koleksi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view user\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\model\\member_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:model\\member_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|C:\\Users\\Administrator\\source\\repos\\polis\\model\\Kategori_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:model\\Kategori_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\koneksidb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:koneksidb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view user\\sidebar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\sidebar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view public\\koleksipub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view public\\koleksipub.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Peminjaman.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -17,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Peminjaman.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\Peminjaman.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|c:\\users\\administrator\\source\\repos\\polis\\view public\\koleksipub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view public\\koleksipub.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|solutionrelative:view user\\Kategori.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5676A61-C0A7-4527-9805-4E6C88090A8E}|polis.vbproj|C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -38,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +82,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Koleksi.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Koleksi.aspx",
+              "RelativeDocumentMoniker": "view user\\Koleksi.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Koleksi.aspx",
+              "RelativeToolTip": "view user\\Koleksi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T10:00:58.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Login.aspx.vb",
+              "RelativeDocumentMoniker": "view user\\Login.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Login.aspx.vb",
+              "RelativeToolTip": "view user\\Login.aspx.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-23T09:18:45.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member_m.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\model\\Member_m.vb",
+              "RelativeDocumentMoniker": "model\\Member_m.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\model\\Member_m.vb",
+              "RelativeToolTip": "model\\Member_m.vb",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowDYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-23T09:17:08.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KoneksiDB.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\KoneksiDB.vb",
+              "RelativeDocumentMoniker": "KoneksiDB.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\KoneksiDB.vb",
+              "RelativeToolTip": "KoneksiDB.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-23T09:15:39.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sidebar.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Sidebar.ascx",
+              "RelativeDocumentMoniker": "view user\\Sidebar.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Sidebar.ascx",
+              "RelativeToolTip": "view user\\Sidebar.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-23T09:08:35.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Login.aspx",
+              "RelativeDocumentMoniker": "view user\\Login.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Login.aspx",
+              "RelativeToolTip": "view user\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T09:05:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "KoleksiPub.aspx.vb",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view public\\KoleksiPub.aspx.vb",
               "RelativeDocumentMoniker": "view public\\KoleksiPub.aspx.vb",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view public\\KoleksiPub.aspx.vb",
               "RelativeToolTip": "view public\\KoleksiPub.aspx.vb",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAcAAAAgAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-07-17T05:17:02.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "KoleksiPub.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view public\\KoleksiPub.aspx",
               "RelativeDocumentMoniker": "view public\\KoleksiPub.aspx",
@@ -84,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Peminjaman.aspx.vb",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Peminjaman.aspx.vb",
               "RelativeDocumentMoniker": "view user\\Peminjaman.aspx.vb",
@@ -92,12 +194,11 @@
               "RelativeToolTip": "view user\\Peminjaman.aspx.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-17T04:40:19.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T04:40:19.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Peminjaman.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Peminjaman.aspx",
               "RelativeDocumentMoniker": "view user\\Peminjaman.aspx",
@@ -105,12 +206,11 @@
               "RelativeToolTip": "view user\\Peminjaman.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-17T04:32:48.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T04:32:48.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Kategori_m.vb",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\model\\Kategori_m.vb",
               "RelativeDocumentMoniker": "model\\Kategori_m.vb",
@@ -123,19 +223,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Kategori.aspx.vb",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx.vb",
               "RelativeDocumentMoniker": "view user\\Kategori.aspx.vb",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx.vb",
               "RelativeToolTip": "view user\\Kategori.aspx.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-17T04:29:22.092Z"
+              "WhenOpened": "2024-07-17T04:29:22.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Kategori.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\polis\\view user\\Kategori.aspx",
               "RelativeDocumentMoniker": "view user\\Kategori.aspx",
